@@ -3,6 +3,8 @@
 
 # open the XAMMP htdocs directory (C:://XAMMP//htdocs ) and git clone the project 
 
+# open the project and run composer install
+
 # Open application/config/config.php from the project folder
 
 Set your base URL: 
